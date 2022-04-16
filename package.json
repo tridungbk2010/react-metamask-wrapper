@@ -1,0 +1,31 @@
+{
+  "name": "react-metamask-wrapper",
+  "version": "1.0.0",
+  "description": "react metamask wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tridungbk2010/react-metamask-wrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tridungbk2010/react-metamask-wrapper/issues"
+  },
+  "homepage": "https://github.com/tridungbk2010/react-metamask-wrapper#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.5",
+    "@types/react-dom": "^18.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.12.0",
+    "react-dom": ">=16.12.0"
+  }
+}
