@@ -1,5 +1,5 @@
 {
-  "name": "react-metamask-wrapper",
+  "name": "@tridungbk2010/react-metamask-wrapper",
   "version": "1.5.0",
   "description": "react metamask wrapper",
   "main": "dist/index.cjs.js",
