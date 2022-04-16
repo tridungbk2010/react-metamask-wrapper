@@ -1,6 +1,6 @@
 {
   "name": "react-metamask-wrapper",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "react metamask wrapper",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
