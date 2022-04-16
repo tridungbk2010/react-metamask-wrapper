@@ -19,9 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/tridungbk2010/react-metamask-wrapper.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["react", "metamask", "ethers js"],
+  "author": "Chris Ho",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tridungbk2010/react-metamask-wrapper/issues"
   },
